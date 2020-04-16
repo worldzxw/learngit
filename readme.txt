@@ -4,11 +4,6 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 have connection a remote git repositories
 Creating a new branch is quick and simple.
-<<<<<<< HEAD
-hahaha
-fix bug 101
-=======
 hahaha
 fix bug 101
 test wei
->>>>>>> test_wei
